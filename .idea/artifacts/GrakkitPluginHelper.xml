@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GrakkitPluginHelper">
+    <output-path>$PROJECT_DIR$/out/artifacts/GrakkitPluginHelper</output-path>
+    <root id="archive" name="GrakkitPluginHelper.jar">
+      <element id="module-output" name="GrakkitPluginHelper" />
+    </root>
+  </artifact>
+</component>
