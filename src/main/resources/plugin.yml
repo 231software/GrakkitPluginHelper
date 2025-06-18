@@ -1,0 +1,4 @@
+name: GrakkitPluginHelper
+version: '${project.version}'
+main: com.minimouse48.grakkitpluginhelper.GrakkitPluginHelper
+api-version: '1.19'
